@@ -1,5 +1,5 @@
 # delete_task.py
-tasks = ["Sample task"]
+tasks = []
 def delete_task(task):
 	pass	
 
